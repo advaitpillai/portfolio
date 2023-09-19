@@ -1,7 +1,7 @@
-# Aspirign Analyst
+# Aspiring Analyst
 
 ### Education
-Bachelor' Business Administration | Marketing
+Bachelor's in Business Administration | Marketing
 
 ### Projects
 EDA - Top 1000 IMDb Movies
