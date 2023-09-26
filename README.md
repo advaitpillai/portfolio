@@ -6,7 +6,7 @@
 > Passionate about deriving business-relevant insights from data
 
 ### Languages & Tools:
-Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MySQL, MS Excel
+Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MySQL, Tableau, MS Excel
 
 #### Projects
 1. Exploratory Data Analysis - IMDb's top 1000 movies | [See Project](https://www.kaggle.com/code/advaitgpillai/eda-top-1000-imdb-movies)
