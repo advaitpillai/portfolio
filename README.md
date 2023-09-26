@@ -16,7 +16,7 @@ Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MySQL, MS Excel
    - Utilized Python libraries such as Pandas, Matplotlib, Seaborn, and Scipy.
      
 2. KPMG Data Analytics Consulting Virtual Internship | [See Certificate](file:///C:/Users/advpi/OneDrive/Desktop/KPMG%20Virtual%20Internship/m7W4GMqeT3bh9Nb2c_KPMG%20AU_tDm5QoRH2AhRJ8ANk_1694948409411_completion_certificate.pdf)
-   This virtual internship is designed to help us gain practical insight into the work done at KPMG and is an opportunity to build relevant skills.
+   - This virtual internship is designed to help us gain practical insight into the work done at KPMG and is an opportunity to build relevant skills.
    > **Task 1**
    - Completed the data quality assessment
      ![211048095-148a23d1-41ad-4bcd-b3dd-2eb77484e970](https://github.com/advaitpillai/portfolio/assets/138120457/dd14ba78-5a88-431b-b95d-3313e00e41ff)
@@ -44,6 +44,7 @@ Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MySQL, MS Excel
    - Developed an interactive Excel dashboard featuring four coffee types, sales data from three countries, and dynamic slicers for roast type, size analysis, and loyalty card usage, enhancing user control and data exploration.
    - Utilized advanced Excel functions such as XLOOKUP and pivot tables to ensure data accuracy and create an intuitive, user-friendly interface for stakeholders.
    - Derived key business insights from the dashboard, including seasonal sales patterns, the impact of roast type on revenue, the effectiveness of loyalty card programs, and top 5 customers.
+     
      ![dashboard](https://github.com/advaitpillai/portfolio/assets/138120457/43797416-f22e-4056-8655-705fa6a6a8c0)
 
     
