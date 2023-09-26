@@ -1,4 +1,4 @@
-# Hi, I'm Advait Pillai
+
 
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f312a4477553241575555625a674c64486952592d4b7935772e676966](https://github.com/advaitpillai/portfolio/assets/138120457/e75f82df-690c-43fb-a715-b65c1594d861)
 
@@ -15,7 +15,7 @@ Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MS Excel,
    - Explored movie genres, identifying the most common genres, analyzing IMDb ratings and earnings by genre, and assessing actor preferences for specific genres.
    - Utilized Python libraries such as Pandas, Matplotlib, Seaborn, and Scipy.
      
-2. KPMG Data Analytics Consulting Virtual Internship |
+2. KPMG Data Analytics Consulting Virtual Internship | See Certificate
    This virtual internship is designed to help us gain practical insight into the work done at KPMG and is an opportunity to build relevant skills.
    - **Task 1**
    - Completed a data quality assessment
@@ -25,7 +25,7 @@ Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MS Excel,
    - Read the complete data analysis [here]([url](https://www.kaggle.com/code/advaitgpillai/high-value-customer-segmentation-analysis/notebook))
    - **Task 3**
    - Developed a dashboard using Tableau to communicate findings with visuals
-   - <img width="683" alt="211047877-0b850d6d-f842-496b-8f8f-39da9a5707d8" src="https://github.com/advaitpillai/portfolio/assets/138120457/f808526d-0d11-4e97-bb42-ef9360676097">
+     <img width="683" alt="211047877-0b850d6d-f842-496b-8f8f-39da9a5707d8" src="https://github.com/advaitpillai/portfolio/assets/138120457/f808526d-0d11-4e97-bb42-ef9360676097">
 
 3. Lifespan and Left-Handedness: A Bayesian Analysis | [Show Project]([url](https://www.kaggle.com/code/advaitgpillai/lifespan-and-left-handedness-a-bayesian-analysis)https://www.kaggle.com/code/advaitgpillai/lifespan-and-left-handedness-a-bayesian-analysis)
    - Utilized publicly available datasets, including death distribution data for the United States, left-handedness rates from the National Geographic survey, and the 1992 paper by Gilbert and Wysocki.
