@@ -9,7 +9,7 @@
 Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MySQL, MS Excel
 
 #### Projects
-1. Exploratory Data Analysis - IMDb's top 1000 movies | [Show Project]([url](https://www.kaggle.com/code/advaitgpillai/eda-top-1000-imdb-movies))
+1. Exploratory Data Analysis - IMDb's top 1000 movies | [See Project](https://www.kaggle.com/code/advaitgpillai/eda-top-1000-imdb-movies)
    - Cleaned and transformed the dataset including handling missing values, converting data types, and preparing the data for analysis.
    - Conducted statistical analysis, calculating key statistics and utilizing effective visualizations like histograms and scatterplots to unveil insights into movie earnings and ratings.
    - Explored movie genres, identifying the most common genres, analyzing IMDb ratings and earnings by genre, and assessing actor preferences for specific genres.
