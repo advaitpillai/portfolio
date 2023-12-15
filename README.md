@@ -6,14 +6,14 @@
 > Passionate about deriving business-relevant insights from data
 
 ### Languages & Tools:
-Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, MySQL, Tableau, MS Excel
+Python, Pandas, Matplotlib, NumPy, SciPy, Seaborn, Tableau, PowerBI, MS Excel
 
 #### Projects
 1. Exploratory Data Analysis - IMDb's top 1000 movies | [See Project](https://www.kaggle.com/code/advaitgpillai/eda-top-1000-imdb-movies)
-   - Cleaned and transformed the dataset including handling missing values, converting data types, and preparing the data for analysis.
-   - Conducted statistical analysis, calculating key statistics and utilizing effective visualizations like histograms and scatterplots to unveil insights into movie earnings and ratings.
-   - Explored movie genres, identifying the most common genres, analyzing IMDb ratings and earnings by genre, and assessing actor preferences for specific genres.
-   - Utilized Python libraries such as Pandas, Matplotlib, Seaborn, and Scipy.
+  - Performed data cleaning on the dataset to address missing values and standardizing data formats using Pandas, ensuring data quality for analysis
+  - Calculated key statistics and employed effective visualizations such as histograms and scatterplots to derive insights into movie earnings and ratings using Seaborn and Matplotlib
+  - Conducted targeted genre analysis to identify profitable genre combinations, correlated ratings with runtime, and identified actor preferences to yield insightful industry trends
+
      
 2. KPMG Data Analytics Consulting Virtual Internship | [See Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_tDm5QoRH2AhRJ8ANk_1694948409411_completion_certificate.pdf)
    - This virtual internship is designed to help us gain practical insight into the work done at KPMG and is an opportunity to build relevant skills.
